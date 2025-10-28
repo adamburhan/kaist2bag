@@ -1,5 +1,5 @@
-dataset: "/home/tao/sda/dataset/kaist/urban30/urban30-gangnam"
-save_to: "/home/tao/sda/dataset/kaist/urban30/urban30-gangnam/bag"
+dataset: "/root/data/urban25-highway/urban25-highway"
+save_to: "/root/data"
 
 altimeter: true
 altimeter_topic: "/altimeter_data"
